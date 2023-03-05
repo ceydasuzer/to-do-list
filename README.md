@@ -6,7 +6,7 @@ Coding Artist website link: https://codingartistweb.com/
 
 ### Links
 
-- Live Site URL: (https://ceydasuzer.github.io/order-sum-component/)
+- Live Site URL: (https://ceydasuzer.github.io/to-do-list/)
 
 ### Built with
 
